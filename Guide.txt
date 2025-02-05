@@ -1,0 +1,8 @@
+### Creer un project NodeJs
+Nom_dossier_project >>> npm init
+Nom_dossier_project >>> npm i express dotenv mongose nodemon
+
+- express: librairie NodeJs Pour Creer des servers
+- dotenv : Dotenv permet de charger des variables d’environnement depuis un fichier .env
+- mongose: Mongoose est une bibliothèque de modélisation d’objets (ODM) pour MongoDB (la base de donnees)
+- nodemon: Pour les actualisation en live, Dès qu'il détecté un changement
